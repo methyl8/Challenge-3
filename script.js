@@ -25,7 +25,7 @@ function generatePassword() {
 
   //cancel
   if(pwdLength == null) {
-    return "";
+    return null;
   }
 
   //validation
@@ -33,7 +33,7 @@ function generatePassword() {
     pwdLength = parseInt(pwdLength);
     if(pwdLength < 8 || pwdLength > 128 || isNaN(pwdLength)) {
       alert("Password must be a number from 8 to 128 characters");
-      return "";
+      return null;
     }
   }
 
@@ -61,7 +61,7 @@ function generatePassword() {
   //validate at least one option selected
   if(!includeLower && !includeUpper && !includeNumbers && !includeSpecial) {
     alert("At least one option must be selected");
-    return "";
+    return null;
   }
 
   //get random character from valid
