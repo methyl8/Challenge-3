@@ -13,9 +13,10 @@ Create password generation function.  When clicking on Generate Password button:
 
 ## Link
 
+[Challenge 3 live page)[https://methyl8.github.io/Challenge-3/]
 
 ## Screenshots
     Sample Messages
-    ![Sample Messages](/screenshots/messages.jpg?raw=true)
+![Sample Messages](/screenshots/messages.jpg?raw=true)
     Full Screen
-    ![Full Size](/screenshots/fullscreen.png?raw=true)
+![Full Size](/screenshots/fullscreen.png?raw=true)
