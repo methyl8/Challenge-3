@@ -13,7 +13,7 @@ Create password generation function.  When clicking on Generate Password button:
 
 ## Link
 
-[Challenge 3 live page)[https://methyl8.github.io/Challenge-3/]
+[Challenge 3 live page](https://methyl8.github.io/Challenge-3/)
 
 ## Screenshots
     Sample Messages
